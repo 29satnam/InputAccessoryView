@@ -6,7 +6,7 @@
  - iPhone X support with respect to layoutMarginsGuide.
  - Can be configured according to your need.
  - Minimal Code
- - Button to left of the `UITextField` can has also been added (part of example).
+ - Button to left of the `UITextField` can has also be added (part of example).
 
 ![Alt Text](https://raw.githubusercontent.com/29satnam/InputAccessoryView/master/demo.gif)
 
